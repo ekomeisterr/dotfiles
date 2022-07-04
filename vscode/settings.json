@@ -1,0 +1,16 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.mouseWheelScrollSensitivity": 0.5,
+  "workbench.fontAliasing": "antialiased",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 17,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.lineHeight": 1.23,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.inheritEnv": false,
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Gruvbox Dark Medium"
+} 
