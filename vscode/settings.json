@@ -11,6 +11,8 @@
   "terminal.integrated.lineHeight": 1.23,
   "editor.minimap.enabled": false,
   "terminal.integrated.inheritEnv": false,
+  "editor.inlayHints.enabled": "on",
+  "editor.wordWrap": "on",
   "workbench.activityBar.visible": false,
-  "workbench.colorTheme": "Gruvbox Dark Medium"
+  "workbench.colorTheme": "Default Light+",
 } 
